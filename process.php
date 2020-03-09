@@ -1,9 +1,10 @@
 <html>
     <body>
-    
+    <link rel="stylesheet" href="stylessheet/main.css" type="text/css">
 
 
 <?php
+
 error_reporting(0);
 $answer1= $_POST['ans1'];
 $answer2= $_POST['ans2'];
@@ -48,6 +49,7 @@ if ($answer18 == "Argentina"){$score++;}
 if ($answer19 == "Green"){$score++;}
 if ($answer20 == "10"){$score++;}
 echo "<center><font face='Berlin Sans FB' size='8'>Your Score is <br> $score/20</font></center>";
+
 ?>
 
 </body>

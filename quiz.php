@@ -147,8 +147,9 @@ $Questions = [
 <?php endforeach; ?>
 <?php endforeach; ?>
 <br><br>
-
+<div class = "heartbeat">
 <input type ="submit" vlaue="Submit" name ="submit">
+</div>
 </form>
 </div>
 </div>
