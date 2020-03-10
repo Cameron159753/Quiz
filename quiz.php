@@ -1,8 +1,8 @@
 <html>
-
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="stylessheet/main.css" type="text/css">
 <h1>Trivia Quiz</h1>
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
 <img src ="images/cover_image.jpg" width ="50%" alt = "Sport">
  
 <?php

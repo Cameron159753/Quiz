@@ -1,5 +1,7 @@
 <html>
     <body>
+    <div class ="body">
+    </div>
     <link rel="stylesheet" href="stylessheet/main.css" type="text/css">
 
 
